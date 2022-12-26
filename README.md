@@ -18,7 +18,7 @@ Front End Developer<br>Currently providing services as an intern using Vue.js, N
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-<link https://br.ifunny.co/picture/voce-esta-vendo-o-json-no-ambiente-de-desenvolvimento-n4J4iuA39?s=cl />
+<img src=" https://br.ifunny.co/picture/voce-esta-vendo-o-json-no-ambiente-de-desenvolvimento-n4J4iuA39?s=cl
+"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
