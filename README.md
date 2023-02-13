@@ -1,7 +1,7 @@
 # Ricardo-Sousa
 
 # 💫 About Me:
-Front End Developer<br>Currently providing services as an intern using Vue.js, Node.js, Typescript, Frameworks, Git and GitHub. Always keeping up to date on technology news and looking to improve in the development area.<br>
+Front End Developer<br>Currently providing services as an intern using Vue.js, React, Node.js, Typescript, Frameworks, Git and GitHub. Always keeping up to date on technology news and looking to improve in the development area.<br>
 
 
 ## 🌐 Socials:
