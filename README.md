@@ -17,7 +17,6 @@ Front End Developer<br>Currently providing services as an intern using Vue.js, R
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- ### 😂 Random Dev Meme
-<img src="https://br.ifunny.co/picture/voce-esta-vendo-o-json-no-ambiente-de-desenvolvimento-n4J4iuA39?s=cl" ></img>
- -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Projects:
+### Login social:      [![Login social](https://img.shields.io/badge/Link-%234FC08D.svg?logo=Link&logoColor=white)](https://github.com/Rcardo-Sousa/social-login) 
+### SideBar:      [![SideBar](https://img.shields.io/badge/Link-%234FC08D.svg?logo=Link&logoColor=white)](https://github.com/Rcardo-Sousa/sideBar) 
