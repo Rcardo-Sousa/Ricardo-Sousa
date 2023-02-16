@@ -20,3 +20,4 @@ Front End Developer<br>Currently providing services as an intern using Vue.js, R
 # Projects:
 ### Login social:      [![Login social](https://img.shields.io/badge/Link-%234FC08D.svg?logo=Link&logoColor=white)](https://github.com/Rcardo-Sousa/social-login) 
 ### SideBar:      [![SideBar](https://img.shields.io/badge/Link-%234FC08D.svg?logo=Link&logoColor=white)](https://github.com/Rcardo-Sousa/sideBar) 
+### Studies:      [![Studies](https://img.shields.io/badge/Link-%234FC08D.svg?logo=Link&logoColor=white)](https://github.com/Rcardo-Sousa/project-studies) 
